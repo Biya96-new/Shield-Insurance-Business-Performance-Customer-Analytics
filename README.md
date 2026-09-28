@@ -190,7 +190,7 @@ Based on the analysis:
 
 ### 📊 Live Dashboard
 
-> **Power BI Dashboard:** [View Live Dashboard](YOUR_POWER_BI_LINK)
+> **Power BI Dashboard:** <iframe title="shield_insurance" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMTAxZWVkZDktNzQzYS00MjFiLThjYTYtMjg2ZjE5NzZjNjc5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ### 🎥 Video Presentation
 
