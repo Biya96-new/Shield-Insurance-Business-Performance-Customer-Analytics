@@ -207,7 +207,6 @@ Based on the analysis:
 **Biya Rocky**  
 Data Analyst | Power BI | SQL | Data Visualization
 
-[LinkedIn](YOUR_LINKEDIN_LINK) · [GitHub](YOUR_GITHUB_LINK)
-
+[LinkedIn][(YOUR_LINKEDIN_LINK)](https://www.linkedin.com/in/biya-rocky-dataanalyst/) 
 ---
 
