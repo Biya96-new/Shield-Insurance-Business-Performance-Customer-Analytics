@@ -80,8 +80,7 @@ DAX measures were developed for key business metrics, including:
 | Total Customers | **26.84K** |
 | Daily Revenue | **₹5.47M** |
 | Daily Customers | **148** |
-| Offline Sales | **71.13%** |
-| Online Sales | **28.87%** |
+
 
 ---
 
@@ -90,8 +89,6 @@ DAX measures were developed for key business metrics, including:
 ## 1. Business Performance
 
 <img width="638" height="396" alt="image" src="https://github.com/user-attachments/assets/de1c39f1-d160-40c9-8d03-ef0ad3108aa6" />
-
-### What does this page answer?
 
 - How is overall revenue and customer performance changing?
 - How are policies growing month over month?
@@ -113,8 +110,6 @@ DAX measures were developed for key business metrics, including:
 
 <img width="637" height="396" alt="image" src="https://github.com/user-attachments/assets/2588a236-cdbb-4c04-af8a-50afa00324f0" />
 
-### What does this page answer?
-
 - Which sales modes contribute most to revenue and customers?
 - How does sales mode preference vary across cities?
 - When are customers most active?
@@ -133,8 +128,6 @@ DAX measures were developed for key business metrics, including:
 ## 3. Age Group Analysis
 
 <img width="638" height="398" alt="image" src="https://github.com/user-attachments/assets/efbddb6a-8115-4068-8953-d6f816deb31d" />
-
-### What does this page answer?
 
 - How does settlement percentage vary across age groups?
 - Which sales modes are preferred by different age groups?
