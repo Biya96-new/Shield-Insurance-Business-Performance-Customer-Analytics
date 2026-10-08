@@ -192,6 +192,8 @@ Based on the analysis:
 
 > **Power BI Dashboard:** <iframe title="shield_insurance" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMTAxZWVkZDktNzQzYS00MjFiLThjYTYtMjg2ZjE5NzZjNjc5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
+<iframe title="shield_insurance" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGM5MGM5ZjktOGJhMy00NDg4LWE5ZjktYWJmNTkyZWM5YjczIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 ### 🎥 Video Presentation
 
 > **Project Walkthrough:** [Watch Presentation](YOUR_VIDEO_LINK)
